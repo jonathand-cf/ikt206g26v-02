@@ -1,5 +1,6 @@
-﻿using System;
-using UtilityLibraries;
+﻿using UtilityLibraries;
+
+namespace ShowCase;
 
 class Program
 {
